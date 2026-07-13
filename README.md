@@ -16,17 +16,6 @@
 
 ---
 
-## About Me
-
-- **Name**: Sukkk
-- **Education**: 上海工程技术大学 · 电子电气工程学院 · 硕士在读
-- **Research**: SDN（软件定义网络）/ P4 可编程数据面 / 网络安全与入侵检测
-- **Interests**: 机器学习 / 网络仿真 / 技术写作
-- **Current Focus**: P4 可编程数据面 + DDoS 检测
-- **Fun Fact**: 喜欢用通俗的方式解释复杂的技术概念
-
----
-
 ## Tech Stack
 
 <table>
@@ -98,13 +87,7 @@ PaperMod 主题 · 自定义 TOC · 系列文章导航
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sukkk-zcy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d" width="49%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sukkk-zcy&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" width="49%">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukkk-zcy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukkk-zcy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="49%">
 
 </div>
 
@@ -119,6 +102,8 @@ PaperMod 主题 · 自定义 TOC · 系列文章导航
 </div>
 
 ---
+
+## Contribution Snake
 
 <div align="center">
 
