@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi,+I'm+Sukkk+👋;电子信息硕士+·+SDN/P4方向" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=500&height=60&lines=Hi,+I'm+Sukkk+👋" alt="Typing SVG" />
 
 [![Blog](https://img.shields.io/badge/Blog-sukkk--zcy.github.io-2563EB?style=for-the-badge&logo=hugo&logoColor=white)](https://sukkk-zcy.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sukkk--zcy-181717?style=for-the-badge&logo=github)](https://github.com/Sukkk-zcy)
@@ -73,18 +73,6 @@ PaperMod 主题 · 自定义 TOC · 系列文章导航
 </td>
 </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Sukkk-zcy's github stats](https://github-readme-stats.vercel.app/api?username=Sukkk-zcy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukkk-zcy&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
