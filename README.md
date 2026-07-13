@@ -18,16 +18,12 @@
 
 ## About Me
 
-```
-const aboutMe = {
-    name: "Sukkk",
-    education: "上海工程技术大学 · 电子信息 · 硕士在读",
-    research: ["SDN (Software-Defined Networking)", "P4 可编程数据面", "网络安全与入侵检测"],
-    interests: ["机器学习", "网络仿真", "技术写作"],
-    currentFocus: "P4 可编程数据面 + DDoS 检测",
-    funFact: "喜欢用通俗的方式解释复杂的技术概念"
-};
-```
+- **Name**: Sukkk
+- **Education**: 上海工程技术大学 · 电子电气工程学院 · 硕士在读
+- **Research**: SDN（软件定义网络）/ P4 可编程数据面 / 网络安全与入侵检测
+- **Interests**: 机器学习 / 网络仿真 / 技术写作
+- **Current Focus**: P4 可编程数据面 + DDoS 检测
+- **Fun Fact**: 喜欢用通俗的方式解释复杂的技术概念
 
 ---
 
