@@ -1,12 +1,6 @@
-<p align="center">
-
-<a href="https://github.com/Sukkk-zcy/Sukkk-zcy">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2563eb,100:3b82f6&height=200&section=header&text=Sukkk&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E7%A1%95%E5%A3%AB%C2%B7SDN%2FP4%E6%96%B9%E5%90%91%C2%B7%E7%83%AD%E7%88%B1%E5%AD%A6%E4%B9%A0%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%85&descSize=18&descAlignY=55&animation=fadeIn" width="100%">
-</a>
-
-</p>
-
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi,+I'm+Sukkk+👋;电子信息硕士+·+SDN/P4方向" alt="Typing SVG" />
 
 [![Blog](https://img.shields.io/badge/Blog-sukkk--zcy.github.io-2563EB?style=for-the-badge&logo=hugo&logoColor=white)](https://sukkk-zcy.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sukkk--zcy-181717?style=for-the-badge&logo=github)](https://github.com/Sukkk-zcy)
@@ -86,8 +80,9 @@ PaperMod 主题 · 自定义 TOC · 系列文章导航
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sukkk-zcy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&border_color=30363d" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukkk-zcy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d" width="49%">
+![Sukkk-zcy's github stats](https://github-readme-stats.vercel.app/api?username=Sukkk-zcy&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukkk-zcy&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
