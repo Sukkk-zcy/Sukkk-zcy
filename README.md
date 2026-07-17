@@ -55,9 +55,9 @@
 
 > 从基础概念到可编程数据面的系统化学习路径
 
-8 篇文章覆盖 SDN 架构、OpenFlow、P4、Mininet、入侵检测、ML
+9 篇文章覆盖 SDN 架构、OpenFlow、P4、Mininet、入侵检测、ML
 
-[![SDN](https://img.shields.io/badge/8_Articles-2563EB?style=flat-square)](https://github.com/Sukkk-zcy/sdn-tutorial)
+[![SDN](https://img.shields.io/badge/9_Articles-2563EB?style=flat-square)](https://github.com/Sukkk-zcy/sdn-tutorial)
 
 </td>
 <td width="50%">
@@ -66,7 +66,7 @@
 
 > 个人技术博客，记录学习笔记和成长历程
 
-PaperMod 主题 · 自定义 TOC · 系列文章导航
+Hugo Stack 主题 · 自定义 TOC · 系列文章导航
 
 [![Blog](https://img.shields.io/badge/Live-000?style=flat-square&logo=hugo&logoColor=white)](https://sukkk-zcy.github.io/)
 
