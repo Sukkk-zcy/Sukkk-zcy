@@ -4,7 +4,7 @@
 
 [![Blog](https://img.shields.io/badge/Blog-sukkk--zcy.github.io-2563EB?style=for-the-badge&logo=hugo&logoColor=white)](https://sukkk-zcy.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-Sukkk--zcy-181717?style=for-the-badge&logo=github)](https://github.com/Sukkk-zcy)
-[![Email](https://img.shields.io/badge/Email-zcy29016%40163.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zcy29016@163.com)
+[![Email](https://img.shields.io/badge/Email-sukkkzcy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sukkkzcy@gmail.com)
 
 </div>
 
@@ -16,59 +16,23 @@
 <tr>
 <td width="50%">
 
-**Languages & Tools**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 </td>
 <td width="50%">
 
-**SDN & Network**
+**SDN & Embedded**
 
 ![OpenFlow](https://img.shields.io/badge/OpenFlow-2563EB?style=flat&logoColor=white)
-![Mininet](https://img.shields.io/badge/Mininet-FF6B35?style=flat&logoColor=white)
 ![P4](https://img.shields.io/badge/P4-4CAF50?style=flat&logoColor=white)
-![Ryu](https://img.shields.io/badge/Ryu-9C27B0?style=flat&logoColor=white)
-![OVS](https://img.shields.io/badge/OVS-3498DB?style=flat&logoColor=white)
-![Hugo](https://img.shields.io/badge/Hugo-FF4088?style=flat&logo=hugo&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-512BD4?style=flat&logo=windows&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## Latest Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### [SDN 学习指南](https://github.com/Sukkk-zcy/sdn-tutorial)
-
-> 从基础概念到可编程数据面的系统化学习路径
-
-9 篇文章覆盖 SDN 架构、OpenFlow、P4、Mininet、入侵检测、ML
-
-[![SDN](https://img.shields.io/badge/9_Articles-2563EB?style=flat-square)](https://github.com/Sukkk-zcy/sdn-tutorial)
-
-</td>
-<td width="50%">
-
-### [Hugo Blog](https://github.com/Sukkk-zcy/Sukkk-zcy.github.io)
-
-> 个人技术博客，记录学习笔记和成长历程
-
-Hugo Stack 主题 · 自定义 TOC · 系列文章导航
-
-[![Blog](https://img.shields.io/badge/Live-000?style=flat-square&logo=hugo&logoColor=white)](https://sukkk-zcy.github.io/)
+![Mininet](https://img.shields.io/badge/Mininet-FF6B35?style=flat&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </td>
 </tr>
