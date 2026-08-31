@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![Sukkk-zcy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sukkk-zcy&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=3b82f6&area=true&hide_border=true)
+![Sukkk-zcy's github activity graph](https://raw.githubusercontent.com/Sukkk-zcy/Sukkk-zcy/output/activity-graph.svg)
 
 </div>
 
