@@ -55,7 +55,7 @@
 
 <div align="center">
 
-![Sukkk-zcy's github activity graph](https://raw.githubusercontent.com/Sukkk-zcy/Sukkk-zcy/output/activity-graph.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sukkk-zcy&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
